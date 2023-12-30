@@ -7,7 +7,7 @@ DegenStore is a Solidity smart contract that implements an ERC-20 token named "D
 # Getting Started
 1. Open the Remix IDE at https://remix.ethereum.org/.
 2. Create a new file or use the existing one.
-3. Copy and paste the contents of MyToken.sol into the file.
+3. Copy and paste the contents of Degen.sol into the file.
 4. Compile the smart contract.
 5. Deploy the smart contract using the Remix "Deploy & Run Transactions" tab.
 
